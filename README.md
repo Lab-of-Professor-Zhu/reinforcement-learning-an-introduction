@@ -6,6 +6,24 @@ Python code for Sutton & Barto's book [*Reinforcement Learning: An Introduction 
 
 > If you have any confusion about the code or want to report a bug, please open an issue instead of emailing me directly.
 
+本书分为三个部分。
+
+第一部分根据马尔可夫决策过程定义强化学习问题。  
+第二部分提供了基本的解决方案：动态规划，蒙特卡罗方法和时差学习。  
+第三部分提出了解决方法的统一视图，并结合了人工神经网络，资格跟踪和规划。  
+最后两章介绍了案例研究，并考虑了强化学习的未来。  
+
+第二版的网站：
+
+http://incompleteideas.net/book/the-book-2nd.html
+
+python实现的代码:
+
+https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+
+课程资料：  
+http://incompleteideas.net/609%20dropbox/  
+
 # Contents 
 
 ### Chapter 1
